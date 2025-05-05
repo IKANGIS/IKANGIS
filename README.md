@@ -4,7 +4,7 @@
 - 💞️ I’ll be looking to collaborate on this soon.
 - 📫 How to reach me: kanginsung@gmail.com
 - 😄 Pronouns: ?
-- ⚡ Fun fact: nothing at the moment
+- ⚡ Fun fact: nothing at the moment.
 
 <!---
 IKANGIS/IKANGIS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
