@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Insung Kang
+- 👋 Hi, I’m Insung Kang (강인성)
 - 👀 I’m interested in Python and other similar langueages.
 - 🌱 I’m currently learning Python.
 - 💞️ I’ll be looking to collaborate on this soon.
